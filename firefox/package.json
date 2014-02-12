@@ -1,0 +1,9 @@
+{
+  "name": "aaumoodleoptimizer",
+  "title": "AAU Moodle Optimizer",
+  "id": "jid1-z0PWQkkBrNMkaA",
+  "description": "Improves AAU's Moodle, inspired by Thomas Panum's extensions for Chrome and Safari. Removes the confusing background and centers the AAU logo.",
+  "author": "Bjarke Hesthaven Søndergaard",
+  "license": "MPL 2.0",
+  "version": "1.0"
+}
