@@ -1,0 +1,4 @@
+#!/bin/sh
+echo 'Creating symbolic links for primariy CSS file'
+ln -s ../css_file.css chrome/css_file.css
+ln -s ../css_file.css safari/css_file.css
