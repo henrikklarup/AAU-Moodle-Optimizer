@@ -5,3 +5,8 @@
 ### Support for new browsers
 1. Create a folder with the name of the browser
 2. Add symlink creation to `bootstrap`
+3. Add the new symblink to gitignore
+
+---
+
+Thanks to @bjarkehs for porting to Firefox.
